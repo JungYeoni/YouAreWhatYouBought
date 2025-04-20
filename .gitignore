@@ -1,0 +1,8 @@
+ds/
+paper/
+pres/
+*-checkpoint.ipynb
+bills/
+*.DS_Store
+*__pycache__/
+*ipynb_checkpoints*
